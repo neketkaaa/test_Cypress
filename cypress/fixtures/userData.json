@@ -1,6 +1,5 @@
 {
-    "main-url": "https://demo.sedmax.ru/sedmax/web/ui/login",
+    "main_url": "https://demo.sedmax.ru/sedmax/web/ui/login",
     "none_existent_login": "test user 123",
-    "login": "test user 123",
     "none_existent_password": "test user 123"
 }
